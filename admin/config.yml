@@ -3,8 +3,11 @@ backend:
   branch: gh-pages # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 collections:
-  - name: 'posts'
-    label: 'Posts'
-    folder: '_posts/'
-    fields:
-      - { name: Title }
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home page"
+        name: "home"
+        file: "_data/home.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
