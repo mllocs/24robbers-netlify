@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: mllocs/agency-jekyll-theme
   branch: gh-pages # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 collections:
