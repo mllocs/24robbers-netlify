@@ -11,4 +11,11 @@ collections:
         file: "_data/home.yml"
         fields:
           - {label: Title, name: title, widget: string}
+          - label: Cover
+            name: covers
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Subtitle, name: subtitle, widget: string}
+              - {label: Image, name: image, widget: image}
           - {label: Video, name: video, widget: string}
