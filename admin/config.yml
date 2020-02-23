@@ -11,3 +11,4 @@ collections:
         file: "_data/home.yml"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Video, name: video, widget: string}
