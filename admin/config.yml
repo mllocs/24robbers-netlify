@@ -19,13 +19,20 @@ collections:
               - {label: Title, name: title, widget: string}
               - {label: Subtitle, name: subtitle, widget: string}
               - {label: Image, name: image, widget: image}
-          - {label: Video, name: video, widget: string}
           - label: About 1
             name: about_1
+            widget: object
             fields:
               - {label: Text, name: text, widget: string}
+              - {label: Subtitle, name: subtitle, widget: string}
+              - label: Paragraphs
+                name: paragraphs
+                widget: list
+                fields:
+                  - {label: Text, name: text, widget: string}
           - label: Video
             name: video
+            widget: object
             fields:
               - {label: Title, name: title, widget: string}
               - {label: Text, name: text, widget: string}
