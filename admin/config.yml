@@ -11,7 +11,6 @@ collections:
         name: "home"
         file: "_data/home.yml"
         fields:
-          - {label: Title, name: title, widget: string}
           - label: Cover
             name: covers
             widget: list
@@ -23,7 +22,7 @@ collections:
             name: about_1
             widget: object
             fields:
-              - {label: Text, name: text, widget: string}
+              - {label: Title, name: title, widget: string}
               - {label: Subtitle, name: subtitle, widget: string}
               - label: Paragraphs
                 name: paragraphs
