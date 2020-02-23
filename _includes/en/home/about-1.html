@@ -1,9 +1,11 @@
 <div class="site-block-half d-flex">
   <div class="image bg-image" style="background-image: url('/assets/images/about/about_1.jpg');"></div>
   <div class="text">
-    <h2 class="font-family-serif">About the band</h2>
-    <span class="caption d-block text-primary pl-0 mb-4">Let's swing!</span>
-    <p class="mb-3">24 Robbers Swing Band is one of the very few vintage jazz bands in Portugal.</p>
-    <p class="mb-3">The band was born in 2015 when an international group of musicians and dancers united with one goal, to create an authentic swing band.</p>
+    <h2 class="font-family-serif">{{ site.data.home.about_1.title }}</h2>
+    <span class="caption d-block text-primary pl-0 mb-4">{{ site.data.home.about_1.subtitle }}</span>
+
+    {% for paragraph in site.data.home.about_1.paragraphs %}
+      <p class="mb-3">{{ paragraph.text }}</p>
+    {% endfor %}
   </div>
 </div>

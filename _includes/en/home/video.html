@@ -4,22 +4,22 @@
       <div class="col-md-6 mb-5 mb-md-0">
 
           <div class="img-border">
-            <a href="{{ site.data.home.video }}" class="popup-vimeo image-play">
+            <a href="{{ site.data.home.video_url }}" class="popup-vimeo image-play">
               <span class="icon-wrap">
                 <span class="icon icon-play"></span>
               </span>
-              <img src="assets/images/video/vid_4.jpg" alt="" class="img-fluid rounded">
+              <img src="{{ site.data.home.video.image_1 }}" alt="" class="img-fluid rounded">
             </a>
           </div>
 
-          <img src="assets/images/video/vid_3.jpg" alt="Image" class="img-fluid image-absolute">
+          <img src="{{ site.data.home.video.image_2 }}" alt="Image" class="img-fluid image-absolute">
       </div>
       <div class="col-md-5 ml-auto">
         <div class="section-heading text-left">
-          <h2 class="mb-5">Watch Video</h2>
+          <h2 class="mb-5">{{ site.data.home.video.title }}</h2>
         </div>
-        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas..</p>
-        <p><a href="{{ site.data.home.video }}" class="popup-youtube text-uppercase">Watch Video <span class="icon-arrow-right small"></span></a></p>
+        <p class="mb-4">{{ site.data.home.video.text }}</p>
+        <p><a href="{{ site.data.home.video_url }}" class="popup-youtube text-uppercase">{{ site.data.home.video.text_link }} <span class="icon-arrow-right small"></span></a></p>
       </div>
     </div>
   </div>

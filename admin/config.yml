@@ -2,6 +2,7 @@ backend:
   name: git-gateway
   branch: master
 media_folder: 'assets/uploads'
+
 collections:
   - label: "Pages"
     name: "pages"
@@ -19,3 +20,17 @@ collections:
               - {label: Subtitle, name: subtitle, widget: string}
               - {label: Image, name: image, widget: image}
           - {label: Video, name: video, widget: string}
+          - label: About 1
+            name: about_1
+            fields:
+              - {label: Text, name: text, widget: string}
+          - label: Video
+            name: video
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Text, name: text, widget: string}
+              - {label: Text link, name: text_link, widget: string}
+              - {label: Video url, name: video_url, widget: string}
+              - {label: Image 1, name: image_1, widget: image}
+              - {label: Image 2, name: image_2, widget: image}
+

@@ -1,5 +1,4 @@
 title: 24 Robbers Swing Band
-video: https://www.youtube.com/watch?v=vdpQhzp00J4
 
 covers:
   - title: 24 Robbers<br /> Swing Band
@@ -8,3 +7,20 @@ covers:
   - title: 24 Robbers<br /> Swing Band
     subtitle: Dance With Us
     image: /assets/images/heros/hero_4.jpg
+
+about_1:
+  image: /assets/images/about/about_1.jpg'
+  title: About the band
+  subtitle: Let's swing!
+  paragraphs:
+    - text: 24 Robbers Swing Band is one of the very few vintage jazz bands in Portugal.
+    - text: The band was born in 2015 when an international group of musicians and dancers united with one goal, to create an authentic swing band.
+
+video:
+  title: Watch Video
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+  text_link: Watch video
+  video_url: https://www.youtube.com/watch?v=vdpQhzp00J4
+  image_1: assets/images/video/vid_3.jpg
+  image_2: assets/images/video/vid_4.jpg
+
