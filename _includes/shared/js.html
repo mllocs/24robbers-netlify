@@ -11,11 +11,20 @@
 <script src="{{ "/assets/js/bootstrap-datepicker.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/aos.js" | prepend: site.baseurl }}"></script>
 
-
 <script src="{{ "/assets/js/mediaelement-and-player.min.js" | prepend: site.baseurl }}"></script>
-
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
 
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+    if (!user) {
+        window.netlifyIdentity.on("login", () => {
+        document.location.href = "/admin/";
+        });
+    }
+    });
+  }
+</script>
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
