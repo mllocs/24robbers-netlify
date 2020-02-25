@@ -23,6 +23,7 @@ collections:
             name: about_1
             widget: object
             fields:
+              - {label: Image, name: image, widget: image}
               - {label: Title, name: title, widget: string}
               - {label: Subtitle, name: subtitle, widget: string}
               - label: Paragraphs
@@ -40,12 +41,13 @@ collections:
                 name: images
                 widget: list
                 fields:
-                  - {label: Image, name: url, widget: string}
+                  - {label: Image, name: url, widget: image}
 
           - label: About 2
             name: about_2
             widget: object
             fields:
+              - {label: Image, name: image, widget: image}
               - {label: Title, name: title, widget: string}
               - {label: Subtitle, name: subtitle, widget: string}
               - label: Paragraphs
@@ -63,7 +65,7 @@ collections:
                 name: images
                 widget: list
                 fields:
-                  - {label: Image, name: url, widget: string}
+                  - {label: Image, name: url, widget: image}
 
           - label: Video
             name: video
