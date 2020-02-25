@@ -1,0 +1,18 @@
+<div class="site-section">
+  <div class="">
+    <div class="row no-gutters">
+      <div class="col-md-6 mx-auto text-center mb-5 section-heading">
+        <h2 class="mb-5">{{ include.scope.title }}</h2>
+      </div>
+    </div>
+    <div class="row no-gutters">
+      {% for image in include.scope.images %}
+        <div class="col-md-6 col-lg-3">
+          <a href="{{ image.url }}" class="image-popup img-opacity">
+            <img src="{{ image.url }}" alt="Image" class="img-fluid">
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

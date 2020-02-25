@@ -1,0 +1,19 @@
+<div class="site-section">
+  <div class="b-about">
+    <div class="row no-gutters">
+      <div class="col-md-6 mb-5 mb-md-0">
+        <img src="{{ include.scope.image }}" alt="" class="img-fluid rounded" />
+      </div>
+      <div class="col-md-5 ml-auto pr-5">
+        <div class="b-about__text">
+          <h2 class="font-family-serif">{{ include.scope.title }}</h2>
+          <span class="caption d-block text-primary pl-0 mb-4">{{ include.scope.subtitle }}</span>
+
+          {% for paragraph in include.scope.paragraphs %}
+            <p class="mb-4">{{ paragraph.text }}</p>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
