@@ -13,78 +13,75 @@ _components:
         - {label: Subtitle, name: subtitle, widget: string}
         - {label: Image, name: image, widget: image}
 
+  about: &about
+    - label: About
+      name: about
+      widget: object
+      fields:
+        - {label: Image, name: image, widget: image}
+        - {label: Title, name: title, widget: string}
+        - {label: Subtitle, name: subtitle, widget: string}
+        - label: Paragraphs
+          name: paragraphs
+          widget: list
+          fields:
+            - {label: Text, name: text, widget: string}
+
+  gallery: &gallery
+    - label: Gallery
+      name: gallery
+      widget: object
+      fields:
+        - {label: Title, name: title, widget: string}
+        - label: Images
+          name: images
+          widget: list
+          fields:
+            - {label: Image, name: url, widget: image}
+
+  video: &video
+    - label: Video
+      name: video
+      widget: object
+      fields:
+        - {label: Title, name: title, widget: string}
+        - {label: Text, name: text, widget: string}
+        - {label: Text link, name: text_link, widget: string}
+        - {label: Video url, name: video_url, widget: string}
+        - {label: Image 1, name: image_1, widget: image}
+        - {label: Image 2, name: image_2, widget: image}
+
 collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "Contact page"
-        name: "contact"
-        file: "_data/contact.yml"
-        fields:
-          - <<: *cover
-
       - label: "Home page"
         name: "home"
         file: "_data/home.yml"
         fields:
           - <<: *cover
-
-          - label: About 1
+          - <<: *about
+            label: About 1
             name: about_1
-            widget: object
-            fields:
-              - {label: Image, name: image, widget: image}
-              - {label: Title, name: title, widget: string}
-              - {label: Subtitle, name: subtitle, widget: string}
-              - label: Paragraphs
-                name: paragraphs
-                widget: list
-                fields:
-                  - {label: Text, name: text, widget: string}
-
-          - label: Gallery 1
+          - <<: *gallery
+            label: Gallery 1
             name: gallery_1
-            widget: object
-            fields:
-              - {label: Title, name: title, widget: string}
-              - label: Images
-                name: images
-                widget: list
-                fields:
-                  - {label: Image, name: url, widget: image}
-
-          - label: About 2
+          - <<: *about
+            label: About 2
             name: about_2
-            widget: object
-            fields:
-              - {label: Image, name: image, widget: image}
-              - {label: Title, name: title, widget: string}
-              - {label: Subtitle, name: subtitle, widget: string}
-              - label: Paragraphs
-                name: paragraphs
-                widget: list
-                fields:
-                  - {label: Text, name: text, widget: string}
-
-          - label: Gallery 2
+          - <<: *gallery
+            label: Gallery 2
             name: gallery_2
-            widget: object
-            fields:
-              - {label: Title, name: title, widget: string}
-              - label: Images
-                name: images
-                widget: list
-                fields:
-                  - {label: Image, name: url, widget: image}
+          - <<: *video
 
-          - label: Video
-            name: video
-            widget: object
-            fields:
-              - {label: Title, name: title, widget: string}
-              - {label: Text, name: text, widget: string}
-              - {label: Text link, name: text_link, widget: string}
-              - {label: Video url, name: video_url, widget: string}
-              - {label: Image 1, name: image_1, widget: image}
-              - {label: Image 2, name: image_2, widget: image}
+      - label: "Agenda page"
+        name: "agenda"
+        file: "_data/agenda.yml"
+        fields:
+          - <<: *cover
 
+      - label: "Contact page"
+        name: "contact"
+        file: "_data/contact.yml"
+        fields:
+          - <<: *cover
