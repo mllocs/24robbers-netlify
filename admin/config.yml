@@ -3,21 +3,31 @@ backend:
   branch: master
 media_folder: 'assets/uploads'
 
+_components:
+  cover: &cover
+    - label: Cover
+      name: covers
+      widget: list
+      fields:
+        - {label: Title, name: title, widget: string}
+        - {label: Subtitle, name: subtitle, widget: string}
+        - {label: Image, name: image, widget: image}
+
 collections:
   - label: "Pages"
     name: "pages"
     files:
+      - label: "Contact page"
+        name: "contact"
+        file: "_data/contact.yml"
+        fields:
+          - <<: *cover
+
       - label: "Home page"
         name: "home"
         file: "_data/home.yml"
         fields:
-          - label: Cover
-            name: covers
-            widget: list
-            fields:
-              - {label: Title, name: title, widget: string}
-              - {label: Subtitle, name: subtitle, widget: string}
-              - {label: Image, name: image, widget: image}
+          - <<: *cover
 
           - label: About 1
             name: about_1
