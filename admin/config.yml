@@ -98,7 +98,7 @@ collections:
 
       - label: "Swing festivals page"
         name: "swing_festivals"
-        file: "_data/en/swing-festivals.yml"
+        file: "_data/en/swing-events.yml"
         fields:
           - <<: *cover
           - <<: *video

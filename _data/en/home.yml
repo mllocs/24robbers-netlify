@@ -37,14 +37,14 @@ about_2:
 gallery_2:
   title: Swing events
   images:
-    - url: /assets/images/gallery-festivals/img_1.jpg
-    - url: /assets/images/gallery-festivals/img_2.jpg
-    - url: /assets/images/gallery-festivals/img_3.jpg
-    - url: /assets/images/gallery-festivals/img_4.jpg
-    - url: /assets/images/gallery-festivals/img_5.jpg
-    - url: /assets/images/gallery-festivals/img_6.jpg
-    - url: /assets/images/gallery-festivals/img_7.jpg
-    - url: /assets/images/gallery-festivals/img_8.jpg
+    - url: /assets/images/gallery-swing/img_1.jpg
+    - url: /assets/images/gallery-swing/img_2.jpg
+    - url: /assets/images/gallery-swing/img_3.jpg
+    - url: /assets/images/gallery-swing/img_4.jpg
+    - url: /assets/images/gallery-swing/img_5.jpg
+    - url: /assets/images/gallery-swing/img_6.jpg
+    - url: /assets/images/gallery-swing/img_7.jpg
+    - url: /assets/images/gallery-swing/img_8.jpg
 
 video:
   title: Watch Video
