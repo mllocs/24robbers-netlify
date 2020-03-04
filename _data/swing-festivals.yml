@@ -1,0 +1,18 @@
+covers:
+  - title: Swing Festivals
+    subtitle: Dance With Us
+    image: /assets/images/heros/hero_3.jpg
+
+video_1:
+  title: Watch Video
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+  text_link: Watch video
+  url: https://www.youtube.com/watch?v=cM-svjfEHu0&feature=youtu.be
+  image_1: /assets/images/video/vid_2.jpg
+
+video_2:
+  title: Watch Video
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+  text_link: Watch video
+  url: https://www.youtube.com/watch?v=ds3_2kD8Gso
+  image_1: /assets/images/video/vid_1.jpg

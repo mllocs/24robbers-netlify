@@ -27,6 +27,19 @@ _components:
           fields:
             - {label: Text, name: text, widget: string}
 
+  reviews: &reviews
+    - label: Reviews
+      name: reviews
+      fields:
+        - {label: Title, name: title, widget: string}
+        - label: List
+          name: list
+          widget: list
+          fields:
+            - {label: Image, name: image, widget: image}
+            - {label: Name, name: name, widget: string}
+            - {label: Text, name: text, widget: string}
+
   gallery: &gallery
     - label: Gallery
       name: gallery
@@ -79,6 +92,22 @@ collections:
         file: "_data/agenda.yml"
         fields:
           - <<: *cover
+
+      - label: "Swing festivals page"
+        name: "swing_festivals"
+        file: "_data/swing-festivals.yml"
+        fields:
+          - <<: *cover
+          - <<: *video
+            label: Video 1
+            name: video_1
+
+      - label: "Private events page"
+        name: "private_events"
+        file: "_data/private-events.yml"
+        fields:
+          - <<: *cover
+          - <<: *reviews
 
       - label: "Contact page"
         name: "contact"

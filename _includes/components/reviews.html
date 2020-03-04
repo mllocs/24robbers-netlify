@@ -1,0 +1,25 @@
+<div class="site-section block-14 bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 mx-auto text-center mb-5 section-heading">
+        <h2>{{ include.scope.title }}</h2>
+      </div>
+    </div>
+
+    <div class="nonloop-block-14 owl-carousel">
+      {% for review in include.scope.list %}
+        <div class="p-4">
+          <div class="d-flex block-testimony">
+            <div class="person mr-3">
+              <img src="{{ review.image }}" alt="Image" class="img-fluid rounded">
+            </div>
+            <div>
+              <h2 class="h5">{{ review.name }}</h2>
+              <blockquote>&ldquo;{{ review.text }}&rdquo;</blockquote>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

@@ -50,7 +50,6 @@ video:
   title: Watch Video
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
   text_link: Watch video
-  video_url: https://www.youtube.com/watch?v=vdpQhzp00J4
+  url: https://www.youtube.com/watch?v=vdpQhzp00J4
   image_1: /assets/images/gallery-events/img_2.jpg
   image_2: /assets/images/video/vid_4.jpg
-

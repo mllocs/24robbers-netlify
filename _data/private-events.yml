@@ -1,0 +1,20 @@
+covers:
+  - title: Private Events
+    subtitle: Enjoy With Us
+    image: /assets/images/heros/hero_2.jpg
+
+reviews:
+  title: Reviews
+  list:
+    - image: /assets/images/people/person_1.jpg
+      name: Maxim Colls
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!
+    - image: /assets/images/people/person_2.jpg
+      name: Lucia Medea
+      text: <3 <3 <3
+    - image: /assets/images/people/person_3.jpg
+      name: Helena
+      text: Wow!
+    - image: /assets/images/people/person_4.jpg
+      name: John Smith
+      text: Really good!
