@@ -7,15 +7,18 @@ covers:
     image: /assets/images/heros/hero_4.jpg
 
 about_1:
-  image: /assets/images/about/about_1.jpg
+  image: /assets/images/about/about_2.jpg
   title: About the band
   subtitle: Let's swing!
   paragraphs:
-    - text: 24 Robbers Swing Band is one of the very few vintage jazz bands in Portugal.
-    - text: The band was born in 2015 when an international group of musicians and dancers united with one goal, to create an authentic swing band.
+    - text: One of the very few vintage jazz bands in Portugal, 24 Robbers are well known on the dance-floors of lindy hop, where their swinging groove makes it hard to stop dancing.
+    - text: Though in 2015 when the band was first formed, it was meant for dancers only, lately 24 Robbers are reaching to way broader audiences from festivals to TV awards, from big stages around the country to more intimate private events.
+    - text: This international group, that truly appreciate the art of swing, is heavily influenced by Fats Waller, Louis Armstrong, Ella Fitzgerald, Duke Ellington and many other greats stars from the 1920s to the 1940s.
+
 
 gallery_1:
   title: At your event
+  link: /en/private-events
   images:
     - url: /assets/images/gallery-events/img_1.jpg
     - url: /assets/images/gallery-events/img_2.jpg
@@ -27,15 +30,16 @@ gallery_1:
     - url: /assets/images/gallery-events/img_8.jpg
 
 about_2:
-  image: /assets/images/about/about_2.jpg
+  image: /assets/images/about/about_1.jpg
   title: More
   subtitle: Let's swing!
   paragraphs:
-    - text: 24 Robbers Swing Band is a multicultural group of swing musicians and dancers based in Lisbon.
-    - text: One of the very few vintage jazz bands in Portugal, 24 Robbers are making themselves a name on the dance-floors and festivals as well as bringing charm to more intimate occasions.
+    - text: Bragging about what we've done (smooth fm, swing festivals, tv awards, weddings...) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+    - text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
 
 gallery_2:
-  title: Swing events
+  title: Swing dancing events
+  link: /en/swing-events
   images:
     - url: /assets/images/gallery-swing/img_1.jpg
     - url: /assets/images/gallery-swing/img_2.jpg
@@ -46,10 +50,14 @@ gallery_2:
     - url: /assets/images/gallery-swing/img_7.jpg
     - url: /assets/images/gallery-swing/img_8.jpg
 
-video:
-  title: Watch Video
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
-  text_link: Watch video
-  url: https://www.youtube.com/watch?v=vdpQhzp00J4
-  image_1: /assets/images/gallery-events/img_2.jpg
-  image_2: /assets/images/video/vid_4.jpg
+videos:
+  title: Videos
+  list:
+    - image: /assets/images/video/smooth-what-a-night.jpg
+      url: https://www.youtube.com/watch?v=U61pDogbbfQ
+    - image: /assets/images/video/titanic.jpg
+      url: https://www.youtube.com/watch?v=ds3_2kD8Gso
+    - image: /assets/images/video/tudomundo-found-baby.jpg
+      url: https://www.youtube.com/watch?v=zG5MghJjmmM
+    - image: /assets/images/video/sofar.jpg
+      url: https://www.youtube.com/watch?v=VWyw0MYZBFs

@@ -3,16 +3,23 @@ covers:
     subtitle: Dance With Us
     image: /assets/images/heros/hero_3.jpg
 
-video_1:
-  title: Watch Video
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
-  text_link: Watch video
-  url: https://www.youtube.com/watch?v=cM-svjfEHu0&feature=youtu.be
-  image_1: /assets/images/video/vid_2.jpg
+about:
+  image: /assets/images/about/about_2.jpg
+  title: More
+  subtitle: Let's swing!
+  paragraphs:
+    - text: Bragging about what we've done (smooth fm, swing festivals, tv awards, weddings...) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+    - text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+    - text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
 
-video_2:
-  title: Watch Video
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
-  text_link: Watch video
-  url: https://www.youtube.com/watch?v=ds3_2kD8Gso
-  image_1: /assets/images/video/vid_1.jpg
+videos:
+  title: Videos
+  list:
+    - image: /assets/images/video/lbs-teachers.jpg
+      url: https://www.youtube.com/watch?v=cM-svjfEHu0
+    - image: /assets/images/video/lba-after.jpg
+      url: https://www.youtube.com/watch?v=3JEbZLF8Vnc
+    - image: /assets/images/video/tudomundo-duty.jpg
+      url: https://www.youtube.com/watch?v=Y0LCzBT9Mi0
+    - image: /assets/images/video/titanic.jpg
+      url: https://www.youtube.com/watch?v=ds3_2kD8Gso

@@ -3,6 +3,55 @@ covers:
     subtitle: Enjoy With Us
     image: /assets/images/heros/hero_2.jpg
 
+about:
+  image: /assets/images/about/about_3.jpg
+  title: More
+  subtitle: Let's swing!
+  paragraphs:
+    - text: Bragging about what we've done (smooth fm, swing festivals, tv awards, weddings...) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+    - text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+
+gallery:
+  title: Gallery
+  link: /en/private-events
+  images:
+    - url: /assets/images/gallery-events/img_1.jpg
+    - url: /assets/images/gallery-events/img_2.jpg
+    - url: /assets/images/gallery-events/img_3.jpg
+    - url: /assets/images/gallery-events/img_4.jpg
+    - url: /assets/images/gallery-events/img_5.jpg
+    - url: /assets/images/gallery-events/img_6.jpg
+    - url: /assets/images/gallery-events/img_7.jpg
+    - url: /assets/images/gallery-events/img_8.jpg
+
+services:
+  title: Services
+  list:
+    - title: Dj
+      description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+      image: /assets/images/gallery-events/img_5.jpg
+    - title: Duo
+      description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+      image: /assets/images/gallery-events/img_2.jpg
+    - title: Trio
+      description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+      image: /assets/images/gallery-events/img_3.jpg
+    - title: Full power
+      description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+      image: /assets/images/gallery-events/img_4.jpg
+
+videos:
+  title: Videos
+  list:
+    - image: /assets/images/video/smooth-what-a-night.jpg
+      url: https://www.youtube.com/watch?v=U61pDogbbfQ
+    - image: /assets/images/video/sofar.jpg
+      url: https://www.youtube.com/watch?v=VWyw0MYZBFs
+    - image: /assets/images/video/sugartown.jpg
+      url: https://www.youtube.com/watch?v=kCCiSLHScAg
+    - image: /assets/images/video/promo.jpg
+      url: https://www.youtube.com/watch?v=VKw_Ja4HSCs
+
 reviews:
   title: Reviews
   list:

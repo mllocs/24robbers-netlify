@@ -1,0 +1,24 @@
+
+<div class="site-section block-15">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 mx-auto text-center mb-5 section-heading">
+        <h2>{{ include.scope.title }}</h2>
+      </div>
+    </div>
+
+    <div class="nonloop-block-15 owl-carousel">
+      {% for service in include.scope.list %}
+        <div class="media-with-text p-md-5">
+          <div class="img-border-sm mb-4">
+            <a href="#" class="popup-vimeo image-play">
+              <img src="{{ service.image }}" alt="" class="img-fluid">
+            </a>
+          </div>
+          <h2 class="heading mb-2">{{ service.title }}</h2>
+          <p>{{ service.description }}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

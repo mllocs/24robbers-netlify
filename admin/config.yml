@@ -53,17 +53,32 @@ _components:
           fields:
             - {label: Image, name: url, widget: image}
 
-  video: &video
-    - label: Video
-      name: video
+  videos: &videos
+    - label: Videos
+      name: videos
       widget: object
       fields:
         - {label: Title, name: title, widget: string}
-        - {label: Text, name: text, widget: string}
-        - {label: Text link, name: text_link, widget: string}
-        - {label: Video url, name: url, widget: string}
-        - {label: Image 1, name: image_1, widget: image}
-        - {label: Image 2, name: image_2, widget: image}
+        - label: List
+          name: list
+          widget: list
+          fields:
+            - {label: Image, name: image, widget: image}
+            - {label: Video URL, name: url, widget: string}
+
+  services: &services
+    - label: Services
+      name: services
+      widget: object
+      fields:
+        - {label: Title, name: title, widget: string}
+        - label: List
+          name: list
+          widget: list
+          fields:
+            - {label: Title, name: title, widget: string}
+            - {label: Description, name: description, widget: string}
+            - {label: Image, name: image, widget: image}
 
 collections:
 
@@ -88,7 +103,7 @@ collections:
           - <<: *gallery
             label: Gallery 2
             name: gallery_2
-          - <<: *video
+          - <<: *videos
 
       - label: "Agenda page"
         name: "agenda"
@@ -96,20 +111,22 @@ collections:
         fields:
           - <<: *cover
 
-      - label: "Swing festivals page"
-        name: "swing_festivals"
+      - label: "Swing dancing page"
+        name: "swing_dancing"
         file: "_data/en/swing-events.yml"
         fields:
           - <<: *cover
-          - <<: *video
-            label: Video 1
-            name: video_1
+          - <<: *about
+          - <<: *videos
 
       - label: "Private events page"
         name: "private_events"
         file: "_data/en/private-events.yml"
         fields:
           - <<: *cover
+          - <<: *about
+          - <<: *gallery
+          - <<: *services
           - <<: *reviews
 
       - label: "Contact page"
