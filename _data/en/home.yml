@@ -5,17 +5,25 @@ covers:
   - title: 24 Robbers<br /> Swing Band
     subtitle: Dance With Us
     image: /assets/images/heros/hero_4.jpg
-
 about_1:
   image: /assets/images/about/about_2.jpg
   title: About the band
   subtitle: Let's swing!
   paragraphs:
-    - text: One of the very few vintage jazz bands in Portugal, 24 Robbers are well known on the dance-floors of lindy hop, where their swinging groove makes it hard to stop dancing.
-    - text: Though in 2015 when the band was first formed, it was meant for dancers only, lately 24 Robbers are reaching to way broader audiences from festivals to TV awards, from big stages around the country to more intimate private events.
-    - text: This international group, that truly appreciate the art of swing, is heavily influenced by Fats Waller, Louis Armstrong, Ella Fitzgerald, Duke Ellington and many other greats stars from the 1920s to the 1940s.
-
-
+    - text: >-
+        One of the very few vintage jazz bands in Portugal, 24 Robbers are well
+        known on the dance-floors of lindy hop, where their swinging groove
+        makes it hard to stop dancing.
+    - text: >-
+        Though in 2015 when the band was first formed, it was meant for dancers
+        only, lately 24 Robbers are reaching to way broader audiences from
+        festivals to TV awards, from big stages around the country to more
+        intimate private events.
+    - text: >-
+        This international group, that truly appreciate the art of swing, is
+        heavily influenced by such names as Fats Waller, Louis Armstrong, Ella
+        Fitzgerald, Duke Ellington and many other great stars from the 1920s to
+        the 1940s.
 gallery_1:
   title: At your event
   link: /en/private-events
@@ -28,15 +36,16 @@ gallery_1:
     - url: /assets/images/gallery-events/img_6.jpg
     - url: /assets/images/gallery-events/img_7.jpg
     - url: /assets/images/gallery-events/img_8.jpg
-
 about_2:
   image: /assets/images/about/about_1.jpg
   title: More
   subtitle: Let's swing!
   paragraphs:
-    - text: Bragging about what we've done (smooth fm, swing festivals, tv awards, weddings...) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
-    - text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
-
+    - text: '24 Robbers '
+    - text: >-
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis
+        magni eaque velit eum, id rem eveniet dolor possimus voluptas.
 gallery_2:
   title: Swing dancing events
   link: /en/swing-events
@@ -49,15 +58,14 @@ gallery_2:
     - url: /assets/images/gallery-swing/img_6.jpg
     - url: /assets/images/gallery-swing/img_7.jpg
     - url: /assets/images/gallery-swing/img_8.jpg
-
 videos:
   title: Videos
   list:
     - image: /assets/images/video/smooth-what-a-night.jpg
-      url: https://www.youtube.com/watch?v=U61pDogbbfQ
+      url: 'https://www.youtube.com/watch?v=U61pDogbbfQ'
     - image: /assets/images/video/honeysuckle.jpg
-      url: https://www.youtube.com/watch?v=g9RETaPbfSM
+      url: 'https://www.youtube.com/watch?v=g9RETaPbfSM'
     - image: /assets/images/video/tudomundo-found-baby.jpg
-      url: https://www.youtube.com/watch?v=zG5MghJjmmM
+      url: 'https://www.youtube.com/watch?v=zG5MghJjmmM'
     - image: /assets/images/video/sofar.jpg
-      url: https://www.youtube.com/watch?v=VWyw0MYZBFs
+      url: 'https://www.youtube.com/watch?v=VWyw0MYZBFs'
