@@ -39,7 +39,7 @@ gallery_1:
 about_2:
   image: /assets/images/about/about_1.jpg
   title: More
-  subtitle: Let's swing!
+  subtitle: Our short History
   paragraphs:
     - text: >-
         24 Robbers swing band is a unique band in Portugal as it focuses
@@ -58,6 +58,7 @@ about_2:
         Getting known among the broader audiences, 24 Robbers became a common
         guest in many coorporate events, Great Gatsby themed parties and
         personal celebrations, such as weddings and birthday parties.
+    - text: In 2020 the band released their debut EP - "Stealing Swing".
 gallery_2:
   title: Swing dancing events
   link: /en/swing-events
