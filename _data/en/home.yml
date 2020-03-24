@@ -6,7 +6,7 @@ covers:
     subtitle: Dance With Us
     image: /assets/images/heros/hero_4.jpg
 about_1:
-  image: /assets/images/about/about_2.jpg
+  image: /assets/uploads/62005570_2400331350254156_691332448658653184_o-3-.jpg
   title: About the band
   subtitle: Let's swing!
   paragraphs:
@@ -37,9 +37,9 @@ gallery_1:
     - url: /assets/images/gallery-events/img_7.jpg
     - url: /assets/images/gallery-events/img_8.jpg
 about_2:
-  image: /assets/images/about/about_1.jpg
+  image: /assets/uploads/39406759_2222706627962612_8410005574313312256_o.jpg
   title: More
-  subtitle: Our short History
+  subtitle: Our Story
   paragraphs:
     - text: >-
         24 Robbers swing band is a unique band in Portugal as it focuses
