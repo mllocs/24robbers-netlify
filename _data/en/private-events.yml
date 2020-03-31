@@ -32,30 +32,33 @@ gallery:
 services:
   title: Services
   list:
-    - title: Dj
+    - title: Swing Band for Vintage Parties
       description: >-
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis
-        magni eaque velit eum, id rem eveniet dolor possimus voluptas.
-      image: /assets/images/gallery-events/img_5.jpg
-    - title: Duo
+        A perfect solution for your Roaring 20's or Great Gatsby themed party.
+        Inicially formed to play for swing dancers, 24 Robbers are always ready
+        to make everybody dance good old fashioned style! Add up vintage dance
+        performers, and you will have an unforgettable night!
+      image: /assets/uploads/517_matt-lena-photography.jpg
+    - title: Cocktail Reception / Dinner Party Band
       description: >-
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis
-        magni eaque velit eum, id rem eveniet dolor possimus voluptas.
-      image: /assets/images/gallery-events/img_2.jpg
-    - title: Trio
+        Available in various formats to bring charm and class to any event. Your
+        favorite jazz standards with a possible mix of bossa nova will help
+        creating a great ambience for any event!
+      image: /assets/uploads/69855957_2473482506272373_8686319628126781440_n-1-.jpg
+    - title: Music for Wedding Ceremony
       description: >-
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis
-        magni eaque velit eum, id rem eveniet dolor possimus voluptas.
-      image: /assets/images/gallery-events/img_3.jpg
-    - title: Full power
+        Choose your favorite songs and we will perform them live on your special
+        moment!
+      image: >-
+        /assets/uploads/portugalweddingphotographer_quintadohespanhol_fallwedding_0999.jpg
+    - title: DJ
       description: >-
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis
-        magni eaque velit eum, id rem eveniet dolor possimus voluptas.
-      image: /assets/images/gallery-events/img_4.jpg
+        Why not trust the full soundtrack of your event to professional
+        musicians? We take care of the sound equipment, dancefloor lighting and
+        personalized set list for you and your guests to dance to all night! We
+        love good oldies from 70s and 80s, so everyone can sing along, or we can
+        keep it vintage, up to you!
+      image: /assets/uploads/matt-lena-wedding-photography-portugal-13.jpg
 videos:
   title: Videos
   list:
