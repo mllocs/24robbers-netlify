@@ -11,9 +11,7 @@
       {% for service in include.scope.list %}
         <div class="media-with-text p-md-5">
           <div class="img-border-sm mb-4">
-            <a href="#" class="popup-vimeo image-play">
-              <img src="{{ service.image }}" alt="" class="img-fluid">
-            </a>
+            <img src="{{ service.image }}" alt="" class="img-fluid">
           </div>
           <h2 class="heading mb-2">{{ service.title }}</h2>
           <p>{{ service.description }}</p>
