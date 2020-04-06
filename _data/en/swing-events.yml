@@ -2,24 +2,27 @@ covers:
   - title: Swing dance events
     subtitle: Dance With Us
     image: /assets/images/heros/hero_3.jpg
-
 about:
   image: /assets/images/about/about_2.jpg
   title: More
   subtitle: Let's swing!
   paragraphs:
-    - text: Bragging about what we've done (smooth fm, swing festivals, tv awards, weddings...) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
-    - text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
-    - text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis magni eaque velit eum, id rem eveniet dolor possimus voluptas.
-
+    - text: 24 Robbers is available for swing parties and festivals!
+    - text: >-
+        With swinging rhythms from 20's to 40's, 24 Robbers have been setting
+        dancefloors of vintage dance events on fire since 2015. 
+    - text: >-
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis
+        magni eaque velit eum, id rem eveniet dolor possimus voluptas.
 videos:
   title: Videos
   list:
     - image: /assets/images/video/lbs-teachers.jpg
-      url: https://www.youtube.com/watch?v=cM-svjfEHu0
+      url: 'https://www.youtube.com/watch?v=cM-svjfEHu0'
     - image: /assets/images/video/lba-after.jpg
-      url: https://www.youtube.com/watch?v=3JEbZLF8Vnc
+      url: 'https://www.youtube.com/watch?v=3JEbZLF8Vnc'
     - image: /assets/images/video/tudomundo-duty.jpg
-      url: https://www.youtube.com/watch?v=Y0LCzBT9Mi0
+      url: 'https://www.youtube.com/watch?v=Y0LCzBT9Mi0'
     - image: /assets/images/video/titanic.jpg
-      url: https://www.youtube.com/watch?v=ds3_2kD8Gso
+      url: 'https://www.youtube.com/watch?v=ds3_2kD8Gso'
