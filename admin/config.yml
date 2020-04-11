@@ -139,8 +139,51 @@ collections:
   - label: "Portuguese"
     name: "portuguese"
     files:
-      - label: "Test"
-        name: "pt"
-        file: "_data/pt/test.yml"
+      - label: "Home page"
+        name: "home"
+        file: "_data/en/home.yml"
         fields:
-          - {label: Title, name: title, widget: string}
+          - <<: *cover
+          - <<: *about
+            label: About 1
+            name: about_1
+          - <<: *gallery
+            label: Gallery 1
+            name: gallery_1
+          - <<: *about
+            label: About 2
+            name: about_2
+          - <<: *gallery
+            label: Gallery 2
+            name: gallery_2
+          - <<: *videos
+
+      - label: "Agenda page"
+        name: "agenda"
+        file: "_data/en/agenda.yml"
+        fields:
+          - <<: *cover
+
+      - label: "Swing dancing page"
+        name: "swing_dancing"
+        file: "_data/en/swing-events.yml"
+        fields:
+          - <<: *cover
+          - <<: *about
+          - <<: *videos
+
+      - label: "Private events page"
+        name: "private_events"
+        file: "_data/en/private-events.yml"
+        fields:
+          - <<: *cover
+          - <<: *about
+          - <<: *gallery
+          - <<: *services
+          - <<: *reviews
+
+      - label: "Contact page"
+        name: "contact"
+        file: "_data/en/contact.yml"
+        fields:
+          - <<: *cover
