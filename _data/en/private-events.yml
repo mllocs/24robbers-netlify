@@ -4,19 +4,18 @@ covers:
     image: /assets/images/heros/hero_2.jpg
 about:
   image: /assets/images/about/about_3.jpg
-  title: More
-  subtitle: Let's swing!
+  title: 24 Robbers At Your Event
+  subtitle: Let's make it unforgettable!
   paragraphs:
-    - text: >-
-        Bragging about what we've done (smooth fm, swing festivals, tv awards,
-        weddings...) Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Eaque, nisi Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Odit nobis magni eaque velit eum, id rem eveniet dolor possimus
-        voluptas.
-    - text: >-
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, nisi
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nobis
-        magni eaque velit eum, id rem eveniet dolor possimus voluptas.
+    - text: Looking to add some jazzy charm to your cocktail reception? Throwing a
+        vintage themed party and need a perfect soundtrack for it? Contact us
+        and you might find just what you're looking for!
+    - text: Available in formats from duo to sextet, 24 Robbers offer a variety of
+        jazz standards, swing and bossa nova. With a long on stage experience,
+        24 Robbers will help you find the best solution for your event and adapt
+        to your needs.
+    - text: In addition to live music, you can also count on our DJ services that
+        keeps the guests dancing after the concert is over!
 gallery:
   title: Gallery
   link: /en/private-events
@@ -33,27 +32,22 @@ services:
   title: Services
   list:
     - title: Swing Band for Vintage Parties
-      description: >-
-        A perfect solution for your Roaring 20's or Great Gatsby themed party.
-        Inicially formed to play for swing dancers, 24 Robbers are always ready
-        to make everybody dance good old fashioned style! Add up vintage dance
-        performers, and you will have an unforgettable night!
+      description: A perfect solution for your Roaring 20's or Great Gatsby themed
+        party. Inicially formed to play for swing dancers, 24 Robbers are always
+        ready to make everybody dance good old fashioned style! Add up vintage
+        dance performers, and you will have an unforgettable night!
       image: /assets/uploads/517_matt-lena-photography.jpg
     - title: Cocktail Reception / Dinner Party Band
-      description: >-
-        Available in various formats to bring charm and class to any event. Your
-        favorite jazz standards with a possible mix of bossa nova will help
+      description: Available in various formats to bring charm and class to any event.
+        Your favorite jazz standards with a possible mix of bossa nova will help
         creating a great ambience for any event!
       image: /assets/uploads/69872714_10156311406817301_2350924712529362944_o.jpg
     - title: Music for Wedding Ceremony
-      description: >-
-        Choose your favorite songs and we will perform them live on your special
-        moment!
-      image: >-
-        /assets/uploads/portugalweddingphotographer_quintadohespanhol_fallwedding_0999.jpg
+      description: Choose your favorite songs and we will perform them live on your
+        special moment!
+      image: /assets/uploads/portugalweddingphotographer_quintadohespanhol_fallwedding_0999.jpg
     - title: DJ
-      description: >-
-        Why not trust the full soundtrack of your event to professional
+      description: Why not trust the full soundtrack of your event to professional
         musicians? We take care of the sound equipment, dancefloor lighting and
         personalized set list for you and your guests to dance to all night! We
         love good oldies from 70s and 80s, so everyone can sing along, or we can
@@ -63,36 +57,33 @@ videos:
   title: Videos
   list:
     - image: /assets/images/video/smooth-what-a-night.jpg
-      url: 'https://www.youtube.com/watch?v=U61pDogbbfQ'
+      url: https://www.youtube.com/watch?v=U61pDogbbfQ
     - image: /assets/images/video/sofar.jpg
-      url: 'https://www.youtube.com/watch?v=VWyw0MYZBFs'
+      url: https://www.youtube.com/watch?v=VWyw0MYZBFs
     - image: /assets/images/video/sugartown.jpg
-      url: 'https://www.youtube.com/watch?v=kCCiSLHScAg'
+      url: https://www.youtube.com/watch?v=kCCiSLHScAg
     - image: /assets/images/video/promo.jpg
-      url: 'https://www.youtube.com/watch?v=VKw_Ja4HSCs'
+      url: https://www.youtube.com/watch?v=VKw_Ja4HSCs
 reviews:
   title: Reviews
   list:
     - image: /assets/uploads/2019_10_12-boda-sonia-y-bernardo-791-1-.jpg
-      name: 'Sónia & Bernardo (ES/PT), Wedding, 2019'
-      text: >-
-        The performance as a band and as DJ duo was a total success, everyone
+      name: Sónia & Bernardo (ES/PT), Wedding, 2019
+      text: The performance as a band and as DJ duo was a total success, everyone
         talks about how much they liked the band and how cool it was. We are
         very happy that 24 Robbers were a part of our day and we feel that they
         do their job with passion and love, this absolutely makes the
         difference.
     - image: /assets/uploads/62005570_2400331350254156_691332448658653184_o-3-.jpg
-      name: 'Rita Monteiro (PT) / Wedding, 2018'
-      text: >-
-        The event was a success, it was so energetic and so much fun. The band
-        put on a hell-of-a performance! Everybody loved the music, and the
-        voltage they put into it. They have the gift of music, of turning spaces
-        into joyous places. We are so happy 24 Robbers were part of our wedding.
+      name: Rita Monteiro (PT) / Wedding, 2018
+      text: The event was a success, it was so energetic and so much fun. The band put
+        on a hell-of-a performance! Everybody loved the music, and the voltage
+        they put into it. They have the gift of music, of turning spaces into
+        joyous places. We are so happy 24 Robbers were part of our wedding.
         Thank you!
     - image: /assets/uploads/banquet_1067.jpg
-      name: 'Antti Pitkänen (FI) Wedding, 2020'
-      text: >-
-        We booked 24 Robbers Swing Band for our wedding in Lisbon, Portugal. The
+      name: Antti Pitkänen (FI) Wedding, 2020
+      text: We booked 24 Robbers Swing Band for our wedding in Lisbon, Portugal. The
         communication with the band was smooth and we felt that they were very
         trustworthy from the beginning. They even promised to make a jazz swing
         version of Heroes by David Bowie and also to set up some PA-equipment
@@ -113,53 +104,45 @@ reviews:
         like jazz, book them still and maybe they change your heart about it.
         Thank you so much!
     - image: /assets/uploads/img_20180825_165740_455.jpg
-      name: 'Claire Mcananey (UK) / Wedding, 2018'
-      text: >-
-        I'd like to thank 24 Robbers for Saturday - we had such a wonderful
+      name: Claire Mcananey (UK) / Wedding, 2018
+      text: I'd like to thank 24 Robbers for Saturday - we had such a wonderful
         wedding and all our guests keep saying that the band were just perfect!
         I would definitely recommend them for other couples.
     - image: /assets/uploads/73458826_2510489749238315_7901297458657886208_o.jpg
-      text: >-
-        The best band in town! They know how to spread positive energy and bring
+      text: The best band in town! They know how to spread positive energy and bring
         everyone into the dance floor. They are all very friendly and lovely.
-      name: 'Luana Zerillo (IT) / Baptizing, 2018'
-    - text: >-
-        We didn’t know the band before, but I have to say that it was a pleasant
+      name: Luana Zerillo (IT) / Baptizing, 2018
+    - text: We didn’t know the band before, but I have to say that it was a pleasant
         surprise. We didn’t have to worry about anything, since the first
         contact Kristina was very helpful. We chose the songs that we really
         wanted to hear and they played them in the right moments. We are very
         satisfied with their work. Thank you for the marvelous day you’ve helped
         to create.
-      name: 'Ricardo Santos (PT) / Wedding, 2019'
+      name: Ricardo Santos (PT) / Wedding, 2019
       image: /assets/uploads/0319.jpg
-    - text: >-
-        The band was absolutely incredible. Every single guest spoke to us about
+    - text: The band was absolutely incredible. Every single guest spoke to us about
         what a great band we had chosen, they loved their style and everyone had
         a great time.
-      name: 'Matthew Calvin (UK) / Wedding, 2019'
+      name: Matthew Calvin (UK) / Wedding, 2019
       image: /assets/uploads/matt-lena-wedding-photography-portugal-4.jpg
-    - text: >-
-        The band and dancers were perfect and so wonderful to work with -
-        arrived early, stayed late, clear communication, so friendly and of
-        course talented!! Thank you very much
-      name: 'Ashley MacArthur (CA) / Corporate event, 2019'
+    - text: The band and dancers were perfect and so wonderful to work with - arrived
+        early, stayed late, clear communication, so friendly and of course
+        talented!! Thank you very much
+      name: Ashley MacArthur (CA) / Corporate event, 2019
       image: /assets/uploads/79294684_550653582333514_2657419166524375040_o.jpg
-    - text: >-
-        The band were fantastic! Our guests gave great feedback and when we
+    - text: The band were fantastic! Our guests gave great feedback and when we
         returned to the cocktail hour having taken some photos, the band who
         were about to take a break came back on to play some songs for us. Our
         only regret was not being able to enjoy their music for longer. Our
         thanks and appreciation to the band!
-      name: 'Nae Timi (UK) / Wedding, 2019'
-      image: >-
-        /assets/uploads/portugalweddingphotographer_quintadohespanhol_fallwedding_1058.jpg
-    - name: 'Alexander Soderholm (SE) / Wedding, 2019'
-      text: >-
-        We just wanted to send across a huge thank you for the wonderful
-        ambiance you created at our wedding! Everyone absolutely loved you and
-        the music, it was such a beautiful, seamless transition from the
-        ceremony to the cocktails. Thank you for being part of creating the most
-        magical day of our lives. On behalf of all our wedding guests, sending
-        you a huge thank you and our best wishes for all your future gigs! We
-        hope to see you all again soon!
+      name: Nae Timi (UK) / Wedding, 2019
+      image: /assets/uploads/portugalweddingphotographer_quintadohespanhol_fallwedding_1058.jpg
+    - name: Alexander Soderholm (SE) / Wedding, 2019
+      text: We just wanted to send across a huge thank you for the wonderful ambiance
+        you created at our wedding! Everyone absolutely loved you and the music,
+        it was such a beautiful, seamless transition from the ceremony to the
+        cocktails. Thank you for being part of creating the most magical day of
+        our lives. On behalf of all our wedding guests, sending you a huge thank
+        you and our best wishes for all your future gigs! We hope to see you all
+        again soon!
       image: /assets/uploads/67093323_2433901603563797_1216723905213890560_o.jpg
