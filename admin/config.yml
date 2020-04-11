@@ -5,80 +5,80 @@ media_folder: 'assets/uploads'
 
 _components:
   cover: &cover
-    - label: Covers
-      name: covers
-      widget: list
-      fields:
-        - {label: Title, name: title, widget: string}
-        - {label: Subtitle, name: subtitle, widget: string}
-        - {label: Image, name: image, widget: image}
+    label: Covers
+    name: covers
+    widget: list
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Subtitle, name: subtitle, widget: string}
+      - {label: Image, name: image, widget: image}
 
   about: &about
-    - label: About
-      name: about
-      widget: object
-      fields:
-        - {label: Image, name: image, widget: image}
-        - {label: Title, name: title, widget: string}
-        - {label: Subtitle, name: subtitle, widget: string}
-        - label: Paragraphs
-          name: paragraphs
-          widget: list
-          fields:
-            - {label: Text, name: text, widget: string}
+    label: About
+    name: about
+    widget: object
+    fields:
+      - {label: Image, name: image, widget: image}
+      - {label: Title, name: title, widget: string}
+      - {label: Subtitle, name: subtitle, widget: string}
+      - label: Paragraphs
+        name: paragraphs
+        widget: list
+        fields:
+          - {label: Text, name: text, widget: string}
 
   reviews: &reviews
-    - label: Reviews
-      name: reviews
-      widget: object
-      fields:
-        - {label: Title, name: title, widget: string}
-        - label: List
-          name: list
-          widget: list
-          fields:
-            - {label: Image, name: image, widget: image}
-            - {label: Name, name: name, widget: string}
-            - {label: Text, name: text, widget: string}
+    label: Reviews
+    name: reviews
+    widget: object
+    fields:
+      - {label: Title, name: title, widget: string}
+      - label: List
+        name: list
+        widget: list
+        fields:
+          - {label: Image, name: image, widget: image}
+          - {label: Name, name: name, widget: string}
+          - {label: Text, name: text, widget: string}
 
   gallery: &gallery
-    - label: Gallery
-      name: gallery
-      widget: object
-      fields:
-        - {label: Title, name: title, widget: string}
-        - label: Images
-          name: images
-          widget: list
-          fields:
-            - {label: Image, name: url, widget: image}
+    label: Gallery
+    name: gallery
+    widget: object
+    fields:
+      - {label: Title, name: title, widget: string}
+      - label: Images
+        name: images
+        widget: list
+        fields:
+          - {label: Image, name: url, widget: image}
 
   videos: &videos
-    - label: Videos
-      name: videos
-      widget: object
-      fields:
-        - {label: Title, name: title, widget: string}
-        - label: List
-          name: list
-          widget: list
-          fields:
-            - {label: Image, name: image, widget: image}
-            - {label: Video URL, name: url, widget: string}
+    label: Videos
+    name: videos
+    widget: object
+    fields:
+      - {label: Title, name: title, widget: string}
+      - label: List
+        name: list
+        widget: list
+        fields:
+          - {label: Image, name: image, widget: image}
+          - {label: Video URL, name: url, widget: string}
 
   services: &services
-    - label: Services
-      name: services
-      widget: object
-      fields:
-        - {label: Title, name: title, widget: string}
-        - label: List
-          name: list
-          widget: list
-          fields:
-            - {label: Title, name: title, widget: string}
-            - {label: Description, name: description, widget: string}
-            - {label: Image, name: image, widget: image}
+    label: Services
+    name: services
+    widget: object
+    fields:
+      - {label: Title, name: title, widget: string}
+      - label: List
+        name: list
+        widget: list
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: Image, name: image, widget: image}
 
 collections:
 
