@@ -8,7 +8,8 @@ jQuery(document).ready(function($) {
 
 	"use strict";
 
-
+	const observer = lozad(); // lazy loads elements with default selector as '.lozad'
+	observer.observe();
 
 	var siteMenuClone = function() {
 
@@ -222,7 +223,6 @@ jQuery(document).ready(function($) {
 			$('.nonloop-block-15').owlCarousel({
 		    center: false,
 		    items: 1,
-		    loop: true,
 				stagePadding: 0,
 				autoplay: false,
 		    margin: 20,

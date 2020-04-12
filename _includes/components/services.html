@@ -11,7 +11,7 @@
       {% for service in include.scope.list %}
         <div class="media-with-text p-md-5">
           <div class="img-border-sm mb-4">
-            <img src="{{ service.image }}" alt="" class="img-fluid">
+            <img data-src="{{ service.image }}" alt="" class="img-fluid lozad">
           </div>
           <h2 class="heading mb-2">{{ service.title }}</h2>
           <p>{{ service.description }}</p>
