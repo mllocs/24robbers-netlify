@@ -26,16 +26,16 @@
                   {% elsif include.language == 'pt' %}
                     <li><a href="/">English</a></li>
                   {% endif %}
-                  <li><a href="/en/agenda">{{ include.scope.agenda }}</a></li>
-                  <li><a href="/en/music">{{ include.scope.music }}</a></li>
+                  <li><a href="/{{ include.language }}/agenda">{{ include.scope.agenda }}</a></li>
+                  <li><a href="/{{ include.language }}/music">{{ include.scope.music }}</a></li>
                   <li class="has-children">
                     <a href="#">{{ include.scope.more }}</a>
                     <ul class="dropdown arrow-top">
-                      <li><a href="/en/swing-events">{{ include.scope.swing_events }}</a></li>
-                      <li><a href="/en/private-events">{{ include.scope.private_events }}</a></li>
+                      <li><a href="/{{ include.language }}/swing-events">{{ include.scope.swing_events }}</a></li>
+                      <li><a href="/{{ include.language }}/private-events">{{ include.scope.private_events }}</a></li>
                     </ul>
                   </li>
-                  <li><a href="/en/contact">{{ include.scope.contact }}</a></li>
+                  <li><a href="/{{ include.language }}/contact">{{ include.scope.contact }}</a></li>
                 </ul>
               </div>
             </nav>
