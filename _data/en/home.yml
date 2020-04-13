@@ -10,17 +10,14 @@ about_1:
   title: About the band
   subtitle: Let's swing!
   paragraphs:
-    - text: >-
-        One of the very few vintage jazz bands in Portugal, 24 Robbers are well
+    - text: One of the very few vintage jazz bands in Portugal, 24 Robbers are well
         known on the dance-floors of lindy hop, where their swinging groove
         makes it hard to stop dancing.
-    - text: >-
-        Though in 2015 when the band was first formed, it was meant for dancers
+    - text: Though in 2015 when the band was first formed, it was meant for dancers
         only, lately 24 Robbers are reaching to way broader audiences from
         festivals to TV awards, from big stages around the country to more
         intimate private events.
-    - text: >-
-        This international group, that truly appreciates the art of swing, is
+    - text: This international group, that truly appreciates the art of swing, is
         heavily influenced by such names as Duke Ellington, Louis Armstrong,
         Ella Fitzgerald, Billie Holiday and many other great stars from the
         1920s to the 1940s.
@@ -41,20 +38,17 @@ about_2:
   title: More
   subtitle: Our Story
   paragraphs:
-    - text: >-
-        24 Robbers swing band is a unique band in Portugal as it focuses
-        strictly on vintage jazz. The band has become known among the swing
-        dancers at an early stage and ever since has participated in many
-        international lindy hop events, including Blue Skies, Little Big Swing
-        and Lindy and Blues exchange with Lisa & Fabien.
-    - text: >-
-        24 Robbers became known to a broader audience when they became the
+    - text: 24 Robbers swing band is a unique band in Portugal as it focuses strictly
+        on vintage jazz. The band has become known among the swing dancers at an
+        early stage and ever since has participated in many international lindy
+        hop events, including Blue Skies, Little Big Swing and Lindy and Blues
+        exchange with Lisa & Fabien.
+    - text: 24 Robbers became known to a broader audience when they became the
         finalists of Smooth FM Jazz Contest and held a live performance on one
         of the most listened radio stations in Portugal. In addition, the band
         has participated in various music festivals, available for broad
         audiences, such as Festival do Avante or Salva a Terra Ecofestival.
-    - text: >-
-        Getting known among the broader audiences, 24 Robbers became a common
+    - text: Getting known among the broader audiences, 24 Robbers became a common
         guest in many coorporate events, Great Gatsby themed parties and
         personal celebrations, such as weddings and birthday parties.
     - text: In 2020 the band released their debut EP - "Stealing Swing".
@@ -74,10 +68,10 @@ videos:
   title: Videos
   list:
     - image: /assets/images/video/smooth-what-a-night.jpg
-      url: 'https://www.youtube.com/watch?v=U61pDogbbfQ'
+      url: https://www.youtube.com/watch?v=U61pDogbbfQ
     - image: /assets/images/video/honeysuckle.jpg
-      url: 'https://www.youtube.com/watch?v=g9RETaPbfSM'
+      url: https://www.youtube.com/watch?v=g9RETaPbfSM
     - image: /assets/images/video/tudomundo-found-baby.jpg
-      url: 'https://www.youtube.com/watch?v=zG5MghJjmmM'
+      url: https://www.youtube.com/watch?v=zG5MghJjmmM
     - image: /assets/uploads/please-videoclip.jpg
-      url: 'https://youtu.be/E4wYYLgHBW4'
+      url: https://www.youtube.com/watch?v=E4wYYLgHBW4
