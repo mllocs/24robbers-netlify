@@ -8,25 +8,23 @@ about:
   subtitle: Let's swing!
   paragraphs:
     - text: 24 Robbers are available for swing parties and festivals!
-    - text: >-
-        With swinging rhythms from 20's to 40's, 24 Robbers have been setting
+    - text: With swinging rhythms from 20's to 40's, 24 Robbers have been setting
         dance floors of vintage dance events on fire since 2015. Born out of
         swing jam sessions, organized for lindyhoppers, 24 Robbers have always
         seen swing dancers as their prime audience. While more than half of the
         musicians also dance, "dancability" is always a big criteria for
         choosing our repertoire and arrangements.
-    - text: >-
-        24 Robbers have participated in several international swing events, such
+    - text: 24 Robbers have participated in several international swing events, such
         as Blue Skies, Little Big Swing, Lindy & Blues weekend with Lisa &
         Fabien and Solo Train.
 videos:
   title: Videos
   list:
     - image: /assets/images/video/lbs-teachers.jpg
-      url: 'https://www.youtube.com/watch?v=cM-svjfEHu0'
+      url: https://www.youtube.com/watch?v=cM-svjfEHu0
     - image: /assets/uploads/please-videoclip.jpg
-      url: 'https://youtu.be/E4wYYLgHBW4'
+      url: https://www.youtube.com/watch?v=E4wYYLgHBW4
     - image: /assets/images/video/tudomundo-duty.jpg
-      url: 'https://www.youtube.com/watch?v=Y0LCzBT9Mi0'
+      url: https://www.youtube.com/watch?v=Y0LCzBT9Mi0
     - image: /assets/images/video/titanic.jpg
-      url: 'https://www.youtube.com/watch?v=ds3_2kD8Gso'
+      url: https://www.youtube.com/watch?v=ds3_2kD8Gso
