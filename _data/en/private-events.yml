@@ -8,18 +8,19 @@ about:
   subtitle: Let's make it unforgettable!
   paragraphs:
     - text: Está à procura de acrescentar algum "jazzy" charme à sua recepção de
-        cocktail? A fazer uma festa temática dos loucos anos 20 e precisa da
-        banda sonora perfeita? Contacte-nos e poderá encontrar exactamente
+        cocktail? De fazer uma festa temática dos loucos anos 20 e precisa da
+        banda sonora perfeita? Contacte-nos e poderá encontrar precisamente
         aquilo que pretende!
     - text: "Disponíveis em formações que vão de duo a sexteto, os 24 Robbers oferecem
         uma variedade de clássicos de jazz, swing e bossa nova. Com uma vasta
-        experiência em cima de palco, os 24 Robbers dispõem da ajuda necessária
-        para encontrar a melhor solução para o seu evento e adaptar-se às suas
+        experiência em palco, os 24 Robbers dispõem da ajuda necessária para
+        encontrar a melhor solução para o seu evento e adaptar-se às suas
         necessidades  "
-    - text: In addition to live music, you can also count on our DJ services that
-        keeps the guests dancing after the concert is over!
+    - text: Para complementar a musica ao vivo, poderá também contar com os nossos
+        serviços de DJ que irão manter os convidados a dançar depois do concerto
+        acabar!
 gallery:
-  title: Gallery
+  title: Galleria
   link: /en/private-events
   images:
     - url: /assets/images/gallery-events/img_1.jpg
@@ -31,22 +32,24 @@ gallery:
     - url: /assets/images/gallery-events/img_7.jpg
     - url: /assets/images/gallery-events/img_8.jpg
 services:
-  title: Services
+  title: Serviços
   list:
-    - title: Swing Band for Vintage Parties
-      description: A perfect solution for your Roaring 20's or Great Gatsby themed
-        party. Initially formed to play for swing dancers, 24 Robbers are always
-        ready to make everybody dance good old fashioned style! Add up vintage
-        dance performers, and you will have an unforgettable night!
+    - title: Banda para Festas Vintage
+      description: 'A escolha perfeita para a sua festa temática dos Loucos anos 20 ou
+        "The Great Gatsby". Inicialmente formados para tocar para dançarinos de
+        "swing", os 24 Robbers estão prontos para animar a pista de dança do seu
+        evento bem à moda antiga! Acresça dançarinos de swing e terá uma noite
+        inesquecivel! '
       image: /assets/uploads/517_matt-lena-photography.jpg
-    - title: Cocktail Reception / Dinner Party Band
-      description: Available in various formats to bring charm and class to any event.
-        Your favorite jazz standards with a possible mix of bossa nova will help
-        creating a great ambience for any event!
+    - title: Recepção de Cocktail/ Festa Jantar
+      description: "Disponíveis em vários formatos de forma a trazer classe e charme a
+        qualquer evento. Os seus clássicos de jazz preferidos como uma possível
+        mistura de bossa nova, irá ajudar a criar um ambiente sublime em
+        qualquer situação! "
       image: /assets/uploads/69872714_10156311406817301_2350924712529362944_o.jpg
-    - title: Music for Wedding Ceremony
-      description: Choose your favorite songs and we will perform them live on your
-        special moment!
+    - title: Musica para Cerimónia
+      description: Escolha as suas musicas preferidas e nós poderemos tocá-las para si
+        no seu momento especial!
       image: /assets/uploads/portugalweddingphotographer_quintadohespanhol_fallwedding_0999.jpg
     - title: DJ
       description: Why not trust the full soundtrack of your event to professional
