@@ -1,27 +1,24 @@
 covers:
-  - title: Eventos privados
+  - title: Private events
     subtitle: Enjoy With Us
     image: /assets/images/heros/hero_2.jpg
 about:
   image: /assets/images/about/about_3.jpg
-  title: 24 Robbers No Seu Evento
+  title: 24 Robbers At Your Event
   subtitle: Let's make it unforgettable!
   paragraphs:
-    - text: Está à procura de acrescentar algum "jazzy" charme à sua recepção de
-        cocktail? De fazer uma festa temática dos loucos anos 20 e precisa da
-        banda sonora perfeita? Contacte-nos e poderá encontrar precisamente
-        aquilo que pretende!
-    - text: "Disponíveis em formações que vão de duo a sexteto, os 24 Robbers oferecem
-        uma variedade de clássicos de jazz, swing e bossa nova. Com uma vasta
-        experiência em palco, os 24 Robbers dispõem da ajuda necessária para
-        encontrar a melhor solução para o seu evento e adaptar-se às suas
-        necessidades  "
-    - text: Para complementar a musica ao vivo, poderá também contar com os nossos
-        serviços de DJ que irão manter os convidados a dançar depois do concerto
-        acabar!
+    - text: Looking to add some jazzy charm to your cocktail reception? Throwing a
+        vintage themed party and need a perfect soundtrack for it? Contact us
+        and you might find just what you're looking for!
+    - text: Available in formats from duo to sextet, 24 Robbers offer a variety of
+        jazz standards, swing and bossa nova. With a long on stage experience,
+        24 Robbers will help you find the best solution for your event and adapt
+        to your needs.
+    - text: In addition to live music, you can also count on our DJ services that
+        keeps the guests dancing after the concert is over!
 gallery:
-  title: Galleria
-  link: /en/private-events
+  title: Gallery
+  link: /pt/private-events
   images:
     - url: /assets/images/gallery-events/img_1.jpg
     - url: /assets/images/gallery-events/img_2.jpg
@@ -32,32 +29,29 @@ gallery:
     - url: /assets/images/gallery-events/img_7.jpg
     - url: /assets/images/gallery-events/img_8.jpg
 services:
-  title: Serviços
+  title: Services
   list:
-    - title: Banda para Festas Vintage
-      description: 'A escolha perfeita para a sua festa temática dos Loucos anos 20 ou
-        "The Great Gatsby". Inicialmente formados para tocar para dançarinos de
-        "swing", os 24 Robbers estão prontos para animar a pista de dança do seu
-        evento bem à moda antiga! Acresça dançarinos de swing e terá uma noite
-        inesquecivel! '
+    - title: Swing Band for Vintage Parties
+      description: A perfect solution for your Roaring 20's or Great Gatsby themed
+        party. Initially formed to play for swing dancers, 24 Robbers are always
+        ready to make everybody dance good old fashioned style! Add up vintage
+        dance performers, and you will have an unforgettable night!
       image: /assets/uploads/517_matt-lena-photography.jpg
-    - title: Recepção de Cocktail/ Festa Jantar
-      description: "Disponíveis em vários formatos de forma a trazer classe e charme a
-        qualquer evento. Os seus clássicos de jazz preferidos como uma possível
-        mistura de bossa nova, irá ajudar a criar um ambiente sublime em
-        qualquer situação! "
+    - title: Cocktail Reception / Dinner Party Band
+      description: Available in various formats to bring charm and class to any event.
+        Your favorite jazz standards with a possible mix of bossa nova will help
+        creating a great ambience for any event!
       image: /assets/uploads/69872714_10156311406817301_2350924712529362944_o.jpg
-    - title: Musica para Cerimónia
-      description: Escolha as suas musicas preferidas e nós poderemos tocá-las para si
-        no seu momento especial!
+    - title: Music for Wedding Ceremony
+      description: Choose your favorite songs and we will perform them live on your
+        special moment!
       image: /assets/uploads/portugalweddingphotographer_quintadohespanhol_fallwedding_0999.jpg
     - title: DJ
-      description: Porque não confiar a banda sonora do seu evento a musicos
-        profissionais? Tratamos do equipamento de som, luzes para pista de dança
-        e seleção de musicas personalizada para poder dançar bem como os seus
-        convidados a noite toda! Nós adoramos os clássicos dos anos 70 e 80 para
-        todo a gente poder cantar, ou então podemos manter o set vintage, é
-        consigo!
+      description: Why not trust the full soundtrack of your event to professional
+        musicians? We take care of the sound equipment, dancefloor lighting and
+        personalized set list for you and your guests to dance to all night! We
+        love good oldies from 70s and 80s, so everyone can sing along, or we can
+        keep it vintage, up to you!
       image: /assets/uploads/matt-lena-wedding-photography-portugal-13.jpg
 videos:
   title: Videos

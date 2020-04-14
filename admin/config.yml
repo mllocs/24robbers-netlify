@@ -141,7 +141,7 @@ collections:
     files:
       - label: "Home page"
         name: "home"
-        file: "_data/en/home.yml"
+        file: "_data/pt/home.yml"
         fields:
           - <<: *cover
           - <<: *about
@@ -160,13 +160,13 @@ collections:
 
       - label: "Agenda page"
         name: "agenda"
-        file: "_data/en/agenda.yml"
+        file: "_data/pt/agenda.yml"
         fields:
           - <<: *cover
 
       - label: "Swing dancing page"
         name: "swing_dancing"
-        file: "_data/en/swing-events.yml"
+        file: "_data/pt/swing-events.yml"
         fields:
           - <<: *cover
           - <<: *about
@@ -174,7 +174,7 @@ collections:
 
       - label: "Private events page"
         name: "private_events"
-        file: "_data/en/private-events.yml"
+        file: "_data/pt/private-events.yml"
         fields:
           - <<: *cover
           - <<: *about
@@ -184,6 +184,6 @@ collections:
 
       - label: "Contact page"
         name: "contact"
-        file: "_data/en/contact.yml"
+        file: "_data/pt/contact.yml"
         fields:
           - <<: *cover
