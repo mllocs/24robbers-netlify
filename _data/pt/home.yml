@@ -23,7 +23,7 @@ about_1:
         grandes estrelas dos anos 20 e 30.
 gallery_1:
   title: No seu evento
-  link: /en/private-events
+  link: /pt/private-events
   images:
     - url: /assets/images/gallery-events/img_1.jpg
     - url: /assets/images/gallery-events/img_2.jpg
@@ -55,7 +55,7 @@ about_2:
     - text: Em 2020 a banda lançou o seu EP de estreia - "Stealing Swing".
 gallery_2:
   title: Eventos de dança
-  link: /en/swing-events
+  link: /pt/swing-events
   images:
     - url: /assets/images/gallery-swing/img_1.jpg
     - url: /assets/images/gallery-swing/img_2.jpg
