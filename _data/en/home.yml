@@ -26,7 +26,7 @@ about_1:
         1920s to the 1940s.
 gallery_1:
   title: At your event
-  link: /pt/private-events
+  link: /en/private-events
   images:
     - url: /assets/images/gallery-events/img_1.jpg
     - url: /assets/images/gallery-events/img_2.jpg
@@ -60,7 +60,7 @@ about_2:
     - text: In 2020 the band released their debut EP - "Stealing Swing".
 gallery_2:
   title: Swing dancing events
-  link: /pt/swing-events
+  link: /en/swing-events
   images:
     - url: /assets/images/gallery-swing/img_1.jpg
     - url: /assets/images/gallery-swing/img_2.jpg
